@@ -4,9 +4,10 @@ I received my master’s degree from the School of Transportation Engineering, C
 
 ## 🔬 Research Interests
 
+- Modeling of Heterogeneous Traffic Flow Involving Autonomous Vehicles
+- Modeling of capacity under mixed CAV and HV environment
 - Surrogate safety measures for highway interaction risk quantification
-- Crash-influencing factor analysis
-- TStochastic fundamental diagram under heterogeneous traffic flows
+
 
 ## 📫 Contact
 Email: ljx2023134060@gmail.com

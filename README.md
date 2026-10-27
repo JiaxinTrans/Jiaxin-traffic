@@ -11,4 +11,4 @@ I received my master’s degree from the School of Transportation Engineering, C
 
 ## 📫 Contact
 Email: ljx2023134060@gmail.com
-Email: 1206296873@qq.com
+Email: lijiaxin26trans@buaa.edu.cn

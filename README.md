@@ -4,7 +4,7 @@ I received my master’s degree from the School of Transportation Engineering, C
 
 ## 🔬 Research Interests
 
-- Modeling of Heterogeneous Traffic Flow Involving Autonomous Vehicles
+- Modeling of heterogeneous traffic flow involving autonomous vehicles
 - Modeling of capacity under mixed CAV and HV environment
 - Surrogate safety measures for vehicle interaction risk quantification
 
